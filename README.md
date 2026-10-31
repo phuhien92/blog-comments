@@ -1,4 +1,12 @@
-# blog-comments
+<p align="center">
+  <a href="https://hienluong.dev">
+    <img src="assets/logo.png" alt="Raymond Space logo" width="120" height="120">
+  </a>
+</p>
+
+<h1 align="center">blog-comments</h1>
+
+<p align="center">Comments for <a href="https://hienluong.dev">Raymond Space</a> · powered by <a href="https://giscus.app">giscus</a></p>
 
 Comment storage for [hienluong.dev](https://hienluong.dev). Each blog post's comment thread lives here as a GitHub Discussion, loaded on the site through [giscus](https://giscus.app).
 
